@@ -1,0 +1,51 @@
+BASIC IMPORTANT QUESTIONS:
+
+0) Booleans?
+1) What is a language? (***)
+2) What is a programming language? (***)
+3) What is java used for? (***)
+4) What are the 3 levels of languages? (High, low, mid)
+5) What are JRE, JDK, and JVM? (***)
+6) What was java Initially named? (***)
+7) What is an IDE?
+8) What does OOP stand for, and it's meaning? (***)
+9) what does multithreading mean? (***)
+10) Brief history of java. (just some small points)
+11) How many data types? define them, and uses? (***)
+12) What are variables and identifiers? (***)
+13) Define static and dynamic?
+14) Define Primitive and Non-Primitive Data Types? (***)
+15) Define Arrays?
+16) Data type Sizes and limitations with examples? (**)
+17) Define Format specifiers and types?
+18) Difference between print, printf, and println? (**)
+19) Automatic and manual typecasting? (**)
+20) Comments and types?
+21) Operators -> Arithmatic, Assignment, Comparison, Logical and Bitwise? (*)
+
+JAVA CONCEPTS: IMPORTANT QUESTIONS:
+
+1) Java FileName-MainClassName relation, and also the Capital letter rule -> Main.java (M capital) (***)
+2) Why is the main method called a method instead of a function? (***)
+3) Define Methods, and Method Overloading? (***)
+4) Define Functions, Arguments, and Parameters? (***)
+5) Define Class, and Class Attributes? (***)
+6) Define Public and Private? (**)
+7) Define Return types in java, and types? (***)
+8) What are System and out called, and what related do they hold? how printf, println, and print are related too? (***)
+9) What are Strings, and their methods? (***)
+10) Java uses Math class for Mathematical tasks on numbers?
+11) Conditional Statements -> IF, IF-ELSE, IF-ELSE_IF-ELSE and ternary operator? (***)
+12) Switch case? (***)
+13) Loops -> WHILE, FOR (***)
+14) break and continue statements?
+15) Recursion? (*)
+16) Inheritance?
+17) Java User-Input using Scanner? (***)
+18) Java Constructors?
+
+
+JAVA EXTRAS:
+
+1) Learn all the keywords like System, out, public, static, void, class, String[] args (****)
+
